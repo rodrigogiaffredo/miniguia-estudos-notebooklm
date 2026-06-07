@@ -13,6 +13,7 @@ Base de Conhecimento: Meus Setups Prediletos de Compra e Venda
 └── estudos
     └── miniguia-setups.md
 
+````
 
 Contexto
 
