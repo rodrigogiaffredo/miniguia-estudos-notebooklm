@@ -1,9 +1,9 @@
 Base de Conhecimento: Meus Setups Prediletos de Compra e Venda
 
 ````markdown
- Estrutura do Projeto
 
-```text
+
+ Estrutura do Projeto
 .
 ├── README.md
 ├── fontes
@@ -12,7 +12,7 @@ Base de Conhecimento: Meus Setups Prediletos de Compra e Venda
 │   └── prompts-utilizados.md
 └── estudos
     └── miniguia-setups.md
-```
+
 
 Contexto
 
