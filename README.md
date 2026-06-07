@@ -1,5 +1,19 @@
 Base de Conhecimento: Meus Setups Prediletos de Compra e Venda
 
+````markdown
+ Estrutura do Projeto
+
+```text
+.
+├── README.md
+├── fontes
+│   └── links-utilizados.md
+├── prompts
+│   └── prompts-utilizados.md
+└── estudos
+    └── miniguia-setups.md
+```
+
 Contexto
 
 Este projeto foi desenvolvido como parte do desafio da DIO utilizando conceitos de Aprendizagem Ativa com Inteligência Artificial e NotebookLM.
