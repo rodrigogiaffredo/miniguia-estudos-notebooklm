@@ -25,3 +25,16 @@ Objetivos de Estudo
 * Construir uma base de consulta rápida para futuras operações.
 * Criar prompts reutilizáveis para acelerar revisões e aprofundamentos.
 
+
+```markdown
+ Meu Projeto
+
+ Documentação
+
+- [Links utilizados](fontes/links-utilizados.md)
+- [Prompts utilizados](prompts/prompts-utilizados.md)
+- [Mini guia de setups](estudos/miniguia-setups.md)
+```
+
+
+
