@@ -1,0 +1,223 @@
+# Miniguia de Estudo
+
+# Larry Williams 9.1
+
+Conceito
+
+Setup baseado na Média Móvel Exponencial de 9 períodos.
+
+Busca capturar o início de um movimento após correção de tendência.
+
+Compra
+
+* MME9 apontando para cima.
+* Correção em direção à média.
+* Rompimento da máxima do candle de gatilho.
+
+Venda
+
+* MME9 apontando para baixo.
+* Correção em direção à média.
+* Perda da mínima do candle de gatilho.
+
+Melhor Contexto
+
+Mercados com tendência definida.
+
+Evitar
+
+Mercados laterais.
+
+
+
+# Larry Williams 9.2
+
+Conceito
+
+Setup de continuidade de tendência.
+
+Compra
+
+* MME9 ascendente.
+* Identificar candle referência.
+* Candle seguinte fecha abaixo da mínima do candle referência.
+* Entrada no rompimento da máxima.
+
+Venda
+
+* MME9 descendente.
+* Candle seguinte fecha acima da máxima do candle referência.
+* Entrada na perda da mínima.
+
+Vantagem
+
+Permite entrar em correções curtas.
+
+
+
+# Larry Williams 9.3
+
+Conceito
+
+Versão mais conservadora do 9.2.
+
+Compra
+
+* MME9 ascendente.
+* Dois candles após o candle referência.
+* Primeiro candle não pode fechar abaixo da mínima do candle referência.
+* Entrada no rompimento da máxima.
+
+Venda
+
+* MME9 descendente.
+* Primeiro candle não fecha acima da máxima do candle referência.
+* Entrada na perda da mínima.
+
+Vantagem
+
+Filtra parte dos sinais falsos.
+
+
+
+# Larry Williams 9.4
+
+Conceito
+
+Estratégia voltada para continuação de tendência utilizando retrações mais profundas.
+
+Características
+
+* Tendência clara.
+* Correção mais extensa.
+* Busca melhor relação risco-retorno.
+
+Perfil
+
+Operador paciente.
+
+
+
+# Setup 123
+
+Conceito
+
+Estratégia clássica de reversão.
+
+Estrutura
+
+Ponto 1:
+Fim da tendência atual.
+
+Ponto 2:
+Primeiro impulso contrário.
+
+Ponto 3:
+Correção sem romper o ponto 1.
+
+Entrada:
+Rompimento do ponto 2.
+
+Melhor Contexto
+
+Mudanças de tendência.
+
+
+
+# Turtle Trading
+
+Conceito
+
+Sistema seguidor de tendência criado pelos Turtle Traders.
+
+Compra
+
+Rompimento da máxima dos últimos períodos.
+
+Venda
+
+Rompimento da mínima dos últimos períodos.
+
+Características
+
+* Forte disciplina.
+* Stops rígidos.
+* Gestão de risco obrigatória.
+
+Melhor Contexto
+
+Grandes tendências.
+
+
+
+# Dave Landry
+
+Conceito
+
+Estratégia focada em tendências fortes após correções.
+
+Princípios
+
+* Operar a favor da tendência.
+* Esperar pullbacks.
+* Evitar antecipações.
+
+Foco
+
+Capturar movimentos explosivos após correções saudáveis.
+
+
+
+# Comparativo dos Setups
+
+| Setup       | Tendência  | Reversão    | Complexidade |
+| ----------- | ---------- | ----------- | ------------ |
+| Larry 9.1   | Alta       | Baixa       | Baixa        |
+| Larry 9.2   | Alta       | Baixa       | Média        |
+| Larry 9.3   | Alta       | Baixa       | Média        |
+| Larry 9.4   | Alta       | Baixa       | Média        |
+| 123         | Baixa      | Alta        | Média        |
+| Turtle      | Muito Alta | Muito Baixa | Baixa        |
+| Dave Landry | Muito Alta | Baixa       | Média        |
+
+
+
+# Glossário
+
+Pullback: correção temporária dentro de uma tendência.
+
+Rompimento: quebra de uma máxima ou mínima relevante.
+
+Tendência: direção predominante do mercado.
+
+MME9: Média Móvel Exponencial de 9 períodos.
+
+Stop Loss: limite pré-definido de perda.
+
+Risk Reward: relação risco-retorno.
+
+Candle Referência: candle utilizado como base para gatilho de entrada.
+
+Breakout: rompimento de nível importante.
+
+
+
+# Prompts Reutilizáveis
+
+Revisão Rápida: Explique resumidamente o setup Larry Williams 9.2 destacando entrada, stop e alvo.
+
+Comparação: Compare Setup 123 e Turtle Trading destacando vantagens e desvantagens.
+
+Contexto Operacional: Quais condições de mercado favorecem o setup Dave Landry?
+
+Gestão de Risco: Qual gerenciamento de risco é mais adequado para o setup Turtle Trading?
+
+Aperfeiçoamento: Quais filtros adicionais podem aumentar a assertividade do setup Larry Williams 9.1?
+
+
+
+Conclusão
+
+Os setups estudados apresentam filosofias diferentes, mas compartilham um princípio comum: operar movimentos de alta probabilidade dentro de contextos específicos de mercado.
+
+A principal conclusão obtida durante os estudos foi que o contexto de mercado é tão importante quanto o próprio setup. Nenhuma estratégia apresenta desempenho consistente quando aplicada fora do cenário para o qual foi concebida.
