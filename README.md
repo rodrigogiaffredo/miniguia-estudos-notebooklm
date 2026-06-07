@@ -44,7 +44,7 @@ Objetivos de Estudo
 ```markdown
  
 
- Documentação
+ Documentação e Entregas do Projeto
 
 - [Links utilizados](fontes/links-utilizados.md)
 - [Prompts utilizados](prompts/prompts-utilizados.md)
