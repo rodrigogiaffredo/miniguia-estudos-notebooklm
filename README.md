@@ -17,7 +17,7 @@ Base de Conhecimento: Meus Setups Prediletos de Compra e Venda
 
 Contexto
 
-Este projeto foi desenvolvido como parte do desafio da DIO utilizando conceitos de Aprendizagem Ativa com Inteligência Artificial e NotebookLM.
+Este projeto foi desenvolvido utilizando conceitos de Aprendizagem Ativa com Inteligência Artificial e NotebookLM.
 
 O objetivo foi criar uma base de conhecimento estruturada sobre os setups operacionais que mais se alinham ao meu estilo de trading, consolidando informações obtidas por meio de vídeos, artigos acadêmicos, estudos de mercado e materiais especializados.
 
