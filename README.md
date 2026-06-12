@@ -15,7 +15,10 @@ Base de Conhecimento: Meus Setups Prediletos de Compra e Venda
 
 ````
 
+* Nota: aproveitei este trabalho de pesquisa para estabelecer meu primeiro contato com o GitHub.
+
 Contexto
+
 
 Este projeto foi desenvolvido utilizando conceitos de Aprendizagem Ativa com Inteligência Artificial e NotebookLM.
 
